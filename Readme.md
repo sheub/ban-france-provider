@@ -1,5 +1,5 @@
 # Base Addresse Nationale Geocoder provider
-[![Build Status](https://travis-ci.org/sheub/Geocoder.svg?branch=BANFrance)](https://travis-ci.org/sheub/Geocoder.svg?branch=BANFrance)
+[![Build Status](https://travis-ci.org/sheub/BANFrance-provider.svg?branch=BANFrance)](https://travis-ci.org/sheub/BANFrance-provider.svg?branch=BANFrance)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/here-provider/v/stable)](https://packagist.org/packages/geocoder-php/here-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/here-provider/downloads)](https://packagist.org/packages/geocoder-php/here-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/here-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/here-provider)
@@ -13,7 +13,7 @@ This is the Here provider from the PHP Geocoder. This is a **READ ONLY** reposit
 ### Install
 
 ```bash
-composer require geocoder-php/BANFrance-provider
+composer require sheub/BANFrance-provider
 ```
 
 
