@@ -1,6 +1,5 @@
 # *Base Addresse Nationale* provider for the [geocoder-php](https://github.com/geocoder-php/Geocoder) library
 [![Build Status](https://travis-ci.org/sheub/BANFrance-provider.svg?branch=master)](https://travis-ci.org/sheub/BANFrance-provider)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/sheub/BANFrance-provider.svg?style=flat-square)](https://scrutinizer-ci.com/g/sheub/BANFrance-provider)
 [![Quality Score](https://img.shields.io/scrutinizer/g/sheub/BANFrance-provider.svg?style=flat-square)](https://scrutinizer-ci.com/g/sheub/BANFrance-provider)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
