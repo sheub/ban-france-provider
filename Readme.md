@@ -8,6 +8,12 @@
 
 This is the provider for the *Base Addresse Nationale Geocoder*. Its coverage is limited to France. Additional information on the service and the API can be found here: https://adresse.data.gouv.fr/
 
+## Install
+
+```bash
+composer require sheub/ban-france-provider
+```
+
 ## Usage
 
 ```php
