@@ -1,9 +1,9 @@
 {
-    "name": "sheub/BANFrance-provider",
+    "name": "sheub/ban-france-provider",
     "type": "library",
-    "description": "Geocoder BANFrance adapter",
+    "description": "Geocoder Base Addresse Nationale France adapter",
     "keywords": ["geocoding", "reverse"],
-    "homepage": "https://github.com/sheub/BANFrance-provider",
+    "homepage": "https://github.com/sheub/ban-france-provider",
     "license": "MIT",
     "authors": [
         {
