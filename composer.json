@@ -2,7 +2,7 @@
     "name": "sheub/BANFrance-provider",
     "type": "library",
     "description": "Geocoder BANFrance adapter",
-    "keywords": [Geocoder],
+    "keywords": ["geocoding", "reverse"],
     "homepage": "https://github.com/sheub/BANFrance-provider",
     "license": "MIT",
     "authors": [
