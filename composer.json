@@ -1,14 +1,14 @@
 {
-    "name": "geocoder-php/BANFrance-provider",
+    "name": "sheub/BANFrance-provider",
     "type": "library",
     "description": "Geocoder BANFrance adapter",
-    "keywords": [],
-    "homepage": "http://geocoder-php.org/Geocoder/",
+    "keywords": [Geocoder],
+    "homepage": "https://github.com/sheub/BANFrance-provider",
     "license": "MIT",
     "authors": [
         {
-            "name": "William Durand",
-            "email": "william.durand1@gmail.com"
+            "name": "Sébastien Barré",
+            "email": "sebastien@sheub.eu"
         }
     ],
     "require": {
@@ -33,10 +33,11 @@
         ]
     },
     "scripts": {
-        "test": "vendor\\bin\\phpunit",
-        "test-ci": "vendor/bin/phpunit --coverage-text --coverage-clover=build/coverage.xml"
+        "test": "phpunit",
+        "test-ci": "phpunit --coverage-text --coverage-clover=build/coverage.xml"
     },
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
