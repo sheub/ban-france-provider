@@ -11,8 +11,6 @@ This is the provider for the *Base Addresse Nationale Geocoder*. Its coverage is
 
 ## Usage
 
-See [Geocoder PHP README file](https://github.com/geocoder-php/Geocoder/blob/master/README.md).
-
 ```php
 use Geocoder\Query\GeocodeQuery;
 use Geocoder\Provider\BANFrance\BANFrance;
