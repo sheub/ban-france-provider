@@ -35,7 +35,7 @@ $result = $provider->geocodeQuery($query);
 
 
 // Reverse geocoding
-$provider = new BANFrance($this->getHttpClient());
+$provider = new BANFrance($httpClient);
 $results = $provider->reverseQuery(ReverseQuery::fromCoordinates(48.8632156, 2.3887722));
 
 ```
